@@ -4,7 +4,7 @@
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
     "name": "Juan Manuel Guerrero (Juanma)",
-    "skill": "Ingenieria de Software",
+    "skill": "Ingeniería de Software",
     "location": "Medellín, Colombia",
     "media": {
         "email": "juanma.0627ga@gmail.com",
@@ -92,7 +92,7 @@
                     "name": "Django"
                 }
             ],
-            "image": "/img-soft.jpg",
+            "image": "/gift.gif",
             "url": "",
             "github": "https://github.com/juanmgart92"
         }
