@@ -117,7 +117,7 @@
         {
             "icon": "braces",
             "title": "Crash Course on Python",
-            "subtitle": "by Google",
+            "subtitle": "By Google",
             "description": "Curso impartido por Google en Coursera, donde se abordaron conceptos básicos de Python y se realizaron ejercicios prácticos para fortalecer los conocimientos en el lenguaje de programación.",
             "date": "Oct 8, 2023",
             "certificate": "https://www.coursera.org/account/accomplishments/certificate/JPF5E83A9YC9"
@@ -125,7 +125,7 @@
         {
             "icon": "cloud",
             "title": "DevOps on AWS: Code, Build and Test",
-            "subtitle": "by AWS",
+            "subtitle": "By AWS",
             "description": "Curso impartido por AWS en Coursera, donde se abordaron conceptos en la nube de Amazon Web Services.",
             "date": "Oct 3, 2023",
             "certificate": "https://www.coursera.org/account/accomplishments/certificate/ZNWAPWFC7KXV"
