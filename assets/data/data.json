@@ -12,7 +12,7 @@
         "github": "https://github.com/juanmgart92",
         "likedin": "https://www.linkedin.com/in/juanmagart/"
     },
-    "about": "Ingeniero de Software apasionado por la tecnología y la gestión de datos, me dedico a crear soluciones escalables y eficientes para abordar desafíos complejos.",
+    "about": "Ingeniero de Software apasionado por la tecnología y la gestión de datos, mi enfoque diario se centra en explorar nuevas soluciones y técnicas que me permitan innovar y generar valor en este campo en constante evolución.",
     "technologies": [
         {
             "icon": "devicon-azuredevops-plain",
@@ -113,6 +113,22 @@
             "description": "Participé en un semillero especializado en seguridad informática, explorando a fondo conceptos clave y herramientas vanguardistas para fortalecer la comprensión en ciberseguridad.",
             "date": "2020",
             "certificate": "https://www.tdea.edu.co/"
+        },
+        {
+            "icon": "braces",
+            "title": "Crash Course on Python",
+            "subtitle": "by Google",
+            "description": "Curso impartido por Google en Coursera, donde se abordaron conceptos básicos de Python y se realizaron ejercicios prácticos para fortalecer los conocimientos en el lenguaje de programación.",
+            "date": "Oct 8, 2023",
+            "certificate": "https://www.coursera.org/account/accomplishments/certificate/JPF5E83A9YC9"
+        },
+        {
+            "icon": "cloud",
+            "title": "DevOps on AWS: Code, Build and Test",
+            "subtitle": "by AWS",
+            "description": "Curso impartido por AWS en Coursera, donde se abordaron conceptos en la nube de Amazon Web Services.",
+            "date": "Oct 3, 2023",
+            "certificate": "https://www.coursera.org/account/accomplishments/certificate/ZNWAPWFC7KXV"
         }
     ],
     "extras": [
