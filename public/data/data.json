@@ -4,7 +4,7 @@
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
     "name": "Juan Manuel Guerrero (Juanma)",
-    "skill": "Ingeniería de Software",
+    "skill": "Ingeniero de Software",
     "location": "Medellín, Colombia",
     "media": {
         "email": "juanma.0627ga@gmail.com",
@@ -12,7 +12,7 @@
         "github": "https://github.com/juanmgart92",
         "likedin": "https://www.linkedin.com/in/juanmagart/"
     },
-    "about": "Ingeniero de Software apasionado por la tecnología y la gestión de datos, mi enfoque diario se centra en explorar nuevas soluciones y técnicas que me permitan innovar y generar valor en este campo en constante evolución.",
+    "about": "Ingeniero de Software apasionado por la tecnología y la gestión de datos, mi enfoque diario se centra en explorar nuevas soluciones que me permitan innovar y generar valor en este campo en constante evolución.",
     "technologies": [
         {
             "icon": "devicon-azuredevops-plain",
